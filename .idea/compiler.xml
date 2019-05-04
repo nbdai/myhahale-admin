@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imooc-video-admin-common" />
+        <module name="imooc-video-admin-mapper" />
+        <module name="imooc-video-admin-mng" />
+        <module name="imooc-video-admin-pojo" />
+        <module name="imooc-video-admin-service" />
+        <module name="myhahale-admin-common" />
+        <module name="myhahale-admin-mapper" />
+        <module name="myhahale-admin-mng" />
+        <module name="myhahale-admin-pojo" />
+        <module name="myhahale-admin-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc-video-admin" target="1.8" />
+      <module name="imooc-video-admin-common" target="1.8" />
+      <module name="imooc-video-admin-mapper" target="1.8" />
+      <module name="imooc-video-admin-mng" target="1.8" />
+      <module name="imooc-video-admin-pojo" target="1.8" />
+      <module name="imooc-video-admin-service" target="1.8" />
+      <module name="myhahale-admin" target="1.8" />
+      <module name="myhahale-admin-common" target="1.8" />
+      <module name="myhahale-admin-mapper" target="1.8" />
+      <module name="myhahale-admin-mng" target="1.8" />
+      <module name="myhahale-admin-pojo" target="1.8" />
+      <module name="myhahale-admin-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

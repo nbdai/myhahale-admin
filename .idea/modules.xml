@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin.iml" filepath="$PROJECT_DIR$/myhahale-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin-common/myhahale-admin-common.iml" filepath="$PROJECT_DIR$/myhahale-admin-common/myhahale-admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin-mapper/myhahale-admin-mapper.iml" filepath="$PROJECT_DIR$/myhahale-admin-mapper/myhahale-admin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin-mng/myhahale-admin-mng.iml" filepath="$PROJECT_DIR$/myhahale-admin-mng/myhahale-admin-mng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin-pojo/myhahale-admin-pojo.iml" filepath="$PROJECT_DIR$/myhahale-admin-pojo/myhahale-admin-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myhahale-admin-service/myhahale-admin-service.iml" filepath="$PROJECT_DIR$/myhahale-admin-service/myhahale-admin-service.iml" />
+    </modules>
+  </component>
+</project>
